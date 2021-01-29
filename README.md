@@ -6,7 +6,7 @@ A Java programmer and a web developer
 <br><br><br><br><br><br><br><br><br><br><br>
 
 - 🔭 I’m currently working on Reactjs
-- 🌱 I’m currently Data structure and algorithms in java
+- 🌱 I’m currently learning Data structure and algorithms in java
 - 💬 Ask me about Anything
 - 📫 How to reach me: Through my social links below
 - 😄 Pronouns: He/Him
