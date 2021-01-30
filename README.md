@@ -17,6 +17,18 @@ A Java programmer and a web developer
 ## Git Stats
 
 <img src="https://github-readme-stats-sooty-alpha.vercel.app/api?username=abhishek5324&show_icons=true&theme=dracula">
+<img src="https://github-readme-stats-sooty-alpha.vercel.app/api/top-langs?username=abhishek5324&show_icons=true&theme=dracula">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150px" height="150px">
+
+
+
+
+
+
+
+
+
+
 
 
 <!--<a href="mailto:abhishek2050.cse18@chitkara.edu.in">
