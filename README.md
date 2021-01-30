@@ -18,7 +18,7 @@ A Java programmer and a web developer
 
 <img src="https://github-readme-stats-sooty-alpha.vercel.app/api?username=abhishek5324&show_icons=true&theme=dracula">
 <img src="https://github-readme-stats-sooty-alpha.vercel.app/api/top-langs?username=abhishek5324&show_icons=true&theme=dracula">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150px" height="150px">
+<img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="200px" height="150px">
 
 
 
