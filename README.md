@@ -14,7 +14,7 @@ A Java programmer and a web developer
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: McDonald’s once made bubblegum-flavored broccoli 
 
-![](https://komarev.com/ghpvc/?username=abhishek5324)
+![](https://komarev.com/ghpvc/?username=abhishek5324&color=red)
 
 -<img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif">
 
