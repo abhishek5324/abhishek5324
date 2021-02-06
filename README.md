@@ -52,9 +52,7 @@ A Java programmer and a web developer
 
 <ul style="list-style:none:>
            
-<a href="mailto:abhishek2050.cse18@chitkara.edu.in">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100px" height="30px">
- </a><a href="https://www.linkedin.com/in/abhishek-bansal-64321a202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" height="30px"></a> <a href="https://github.com/abhishek5324"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px" height="30px"></a>
+<a href="mailto:abhishek2050.cse18@chitkara.edu.in"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100px" height="30px"><a href="https://www.linkedin.com/in/abhishek-bansal-64321a202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" height="30px"></a> <a href="https://github.com/abhishek5324"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px" height="30px"></a>
 
 </ul>
 
