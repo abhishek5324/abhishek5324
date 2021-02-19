@@ -1,6 +1,6 @@
 
         
-## Hello , I'm Abhishek <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hello , I'm Abhishek <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="3px">
 
 I'm a Java programmer and a web developer
 
