@@ -24,11 +24,11 @@ I'm a Java programmer and a web developer
 <img src="https://github-readme-stats-sooty-alpha.vercel.app/api/top-langs?username=abhishek5324&show_icons=true&theme=dracula">
 <img src="https://media.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif" width="200px" height="150px">
 
-## Projects
+## `Projects`
 <a href="https://github.com/abhishek5324?tab=repositories" > <img src="https://media.giphy.com/media/H62Q7V3uquoeIIRRXf/giphy.gif" width="200px" height="150px"></a>
 
 
-## Languages and Tools <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
+## `Languages and Tools` <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
 <ul>
     <li>Atom</li>
     <li>Bootstrap</li>
@@ -48,46 +48,10 @@ I'm a Java programmer and a web developer
     <li>Xampp</li>
 </ul>
 
-## Social Links
+## `Social Links`
 
 <ul style="list-style:none:>
            
 <a href="mailto:abhishek2050.cse18@chitkara.edu.in"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="100px" height="30px"></a> <a href="https://www.linkedin.com/in/abhishek-bansal-64321a202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" height="30px"></a> <a href="https://github.com/abhishek5324"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="100px" height="30px"></a>
 
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**abhishek5324/abhishek5324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
